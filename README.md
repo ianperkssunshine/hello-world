@@ -6,3 +6,5 @@ This is an addiion to the short description which I have added from the new bran
 This is the second branch edit.
 
 This is another line added to the second branch.
+
+This is the second line added to the second branch.
