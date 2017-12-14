@@ -8,3 +8,5 @@ This is the second branch edit.
 This is another line added to the second branch.
 
 This is the second line added to the second branch.
+
+This is the first line added from PHPStorm.
