@@ -14,3 +14,5 @@ This is the first line added from PHPStorm.
 This is the second line added from PHPStorm.
 
 This is the third line added from PHPStorm.
+
+This is the fourth line added from PHPStorm.
