@@ -10,3 +10,5 @@ This is another line added to the second branch.
 This is the second line added to the second branch.
 
 This is the first line added from PHPStorm.
+
+This is the second line added from PHPStorm.
